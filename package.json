@@ -1,0 +1,19 @@
+{
+  "name": "umbralprism-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A Dark-mode theme for the Pulsar editor, but still using vibrant colors. Based on Dark Rainbow by @hugoondev.",
+  "keywords": [
+    "dark mode",
+    "dark",
+    "colors",
+    "vibrant",
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/jasoncastle/umbralprism-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
